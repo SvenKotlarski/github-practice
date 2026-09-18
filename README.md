@@ -8,3 +8,6 @@ I'm learning how Git, GitHub and VS Code work together.
 - Make a commit
 - Connect Git to GitHub
 - Push to GitHub
+
+
+This line was added on GitHub.
